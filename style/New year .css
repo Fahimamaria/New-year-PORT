@@ -2,7 +2,7 @@
     position: absolute;
 width: 525px;
 height: 228px;
-left: 845px;
+right: 845px;
 top: 216px;
 
 
@@ -16,7 +16,7 @@ text-align: right;
     position: absolute;
     width: 494px;
     height: 78px;
-    left: 876px;
+    right: 876px;
     top: 530px;
     font-weight: 400;
 font-size: 16px;
@@ -24,11 +24,27 @@ line-height: 26px;
 text-align: right;
 }
 
+.text{
+    position: absolute;
+    width: 416px;
+    height: 400px;
+    left: 862px;
+    top: 1320px;
+}
+.textbanner{
+    position: absolute;
+    width: 200px;
+    height: 190px;
+    left:862px;
+    top: 1180px;
+
+    font-size: 20px;
+}
 .btn{
     position: absolute;
 width:150px;
 height: 70px;
-left: 1210px;
+left: 1110px;
 top: 700px;
 border: 100px;
 border-radius: 10px;
@@ -42,4 +58,43 @@ width: 550px;
 height: 700px;
 left: 206px;
 top: 939px;
+}
+.plan{
+    position: absolute;
+width: 1141px;
+height: 299.96px;
+left: 590px;
+top: 1792.3px;
+
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+font-style: italic;
+font-weight: 900;
+}
+.Develop{
+    position: absolute;
+width: 1141px;
+height: 299.96px;
+left: 180px;
+top: 1940px;
+}
+.lop{
+    position: absolute;
+    width: 2141px;
+    height: 299.96px;
+    left: 500px;
+    top: 1940px;
+}
+.smoke{
+    position: absolute;
+    width: 1141px;
+    height: 299.96px;
+    left: 800px;
+    top: 1940px;
+}
+.ment{
+    position: absolute;
+    width: 1141px;
+    height: 299.96px;
+    left: 1100px;
+    top: 1940px;
 }
