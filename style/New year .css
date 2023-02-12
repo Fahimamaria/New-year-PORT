@@ -98,3 +98,38 @@ top: 1940px;
     left: 1100px;
     top: 1940px;
 }
+.watch{
+    position: absolute;
+width: 1140px;
+height: 300px;
+left: 125px;
+top: 2216.3px;
+}
+.gradient{
+    position: absolute;
+    width: 1140px;
+    height: 300px;
+    left: 125px;
+    top: 2216.3px;
+}
+.mind{
+    position: absolute;
+    width: 1140px;
+    height: 400px;
+    left: 200px;
+    top: 2270px;
+    font-size: 26px;
+    font-weight: 900;
+}
+.call{
+    position: absolute;
+    width:150px;
+    height: 70px;
+    right: 1005px;
+    top: 2430px;
+    border: 100px;
+    border-radius: 10px;
+    font-size: medium;
+font-weight: bold;
+background-color:whitesmoke;
+}
