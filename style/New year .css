@@ -1,3 +1,5 @@
+
+
 .banner{
     position: absolute;
 width: 525px;
@@ -98,12 +100,13 @@ top: 1940px;
     left: 1100px;
     top: 1940px;
 }
+
 .watch{
     position: absolute;
-width: 1140px;
-height: 300px;
-left: 125px;
-top: 2216.3px;
+    width: 1140px;
+    height: 300px;
+    left: 125px;
+    top: 2216.3px;
 }
 .gradient{
     position: absolute;
@@ -121,15 +124,55 @@ top: 2216.3px;
     font-size: 26px;
     font-weight: 900;
 }
-.call{
+.btn-roll{
     position: absolute;
-    width:150px;
-    height: 70px;
-    right: 1005px;
-    top: 2430px;
-    border: 100px;
-    border-radius: 10px;
-    font-size: medium;
-font-weight: bold;
-background-color:whitesmoke;
+width: 159px;
+height: 82px;
+left: 200px;
+top: 2390px;
+border-radius: 5px;
+font-weight: 700;
+   font-size: 20px;
+
+}
+.btn-call{
+    position: absolute;
+width: 160px;
+height: 64px;
+left: 1110px;
+top: 578px;
+color: blueviolet;
+background: wheat;
+border-radius: 5px;
+font-weight: 700;
+   font-size: 20px;
+}
+.btn-primary{
+   color: crimson;
+   font-weight: 700;
+   font-size: 20px;
+   border: 0;
+   padding: 18px 35px;
+   height: 64px;
+   border-radius: 5px;
+   background: darkorange;
+}
+
+.future{
+    text-align: inline;
+    left: 100px;
+
+}
+.footer{
+    display: flex;
+    gap: 150px;
+    background: wheat;
+    padding: 100px 170px;
+    position: absolute;
+    width: 1070px;
+    height: 265px;
+    left: 0px;
+    top: 2609.21px;
+    font-size: larger;
+    font-weight: bold;
 }
